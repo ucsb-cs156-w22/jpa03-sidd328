@@ -1,5 +1,9 @@
 # demo-spring-react-example: dsre
 
+GitHub Repo:
+
+<https://github.com/ucsb-cs156-w22/jpa03-sidd328>
+
 Badge:
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sidd328/branch/main/graph/badge.svg?token=Ey7IjFvC2f)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sidd328)
